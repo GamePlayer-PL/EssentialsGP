@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EssentialsGP:jar">
+    <output-path>$PROJECT_DIR$/../EssentialsGP-out/0.1</output-path>
+    <root id="archive" name="EssentialsGP.jar">
+      <element id="module-output" name="EssentialsGP" />
+    </root>
+  </artifact>
+</component>
