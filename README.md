@@ -1,0 +1,2 @@
+# EssentialsGP
+Minecraft Java Plugin
